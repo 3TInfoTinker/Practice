@@ -1,0 +1,1 @@
+The text is being added to not changes in 'git ls-tree' output
